@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="99009a63-fdf5-4a9d-bb7d-37be3554b0c2" name="Funeralzone" url="http://funeralzone.dev">
+        <fileTransfer mountedRoot="$USER_HOME$/Documents/webroots/funeralzone/funeralzone" accessType="MOUNT" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
+

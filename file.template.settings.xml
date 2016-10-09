@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="composer.json" reformat="false" />
+      <template name="FZTest.php" reformat="false" />
+    </default_templates>
+  </component>
+</application>

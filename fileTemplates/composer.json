@@ -1,0 +1,30 @@
+{
+    "name": "edgallois/",
+    "description": "",
+
+    "repositories": [
+        {
+            "type":"vcs",
+            "url":"git@bitbucket.org:edgallois/core.git"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.5",
+        "edgallois/core": "dev-master"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "4.*",
+        "mockery/mockery":"dev-master"
+    },
+
+    "autoload": {
+        "psr-0": {
+            "":"src/"
+        },
+        "classmap": [
+            "src"
+        ]
+    }
+}

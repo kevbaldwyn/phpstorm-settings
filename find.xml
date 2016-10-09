@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '/Users/Kev/Documents/webroots/funeralzone/funeralzone/fuel/app/tasks/justgiving.php'" />
+    <option name="defaultScopeName" value="File '/Users/Kev/Documents/webroots/funeralzone/funeralzone/fuel/app/tasks/justgiving.php'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/Kev/Documents/webroots/funeralzone/funeralzone/fuel/app/tasks/justgiving.php'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>prototype</mask>
+      <mask>*.blade.php</mask>
+    </recentFileMasks>
+  </component>
+</application>
