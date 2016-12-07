@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '.../fuel/app/classes/lib/DomainModel/Infrastructure/Obituary/Files/UploadFactory.php - [funeralzone]'" />
+    <option name="defaultScopeName" value="File '.../fuel/app/classes/lib/DomainModel/Infrastructure/Obituary/Files/UploadFactory.php - [funeralzone]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="File '.../fuel/app/classes/lib/DomainModel/Infrastructure/Obituary/Files/UploadFactory.php - [funeralzone]'" />
   </component>
 </application>
