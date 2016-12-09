@@ -1546,6 +1546,15 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="b15bae" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value />
+    </option>
     <option name="XML_TAG_DATA">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -1553,8 +1562,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e3e3ff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
     <option name="YAML_COMMENT">
