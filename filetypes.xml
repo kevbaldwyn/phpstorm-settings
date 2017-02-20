@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="template" type="JSON" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
     </extensionMap>
