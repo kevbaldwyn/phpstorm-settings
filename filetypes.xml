@@ -8,6 +8,7 @@
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="public" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
