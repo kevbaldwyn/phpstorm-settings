@@ -13,6 +13,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
