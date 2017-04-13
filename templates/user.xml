@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="if" value="if(is_null($dependency$)) {&#10;    $dependency$ = app($abstract$);&#10;}" description="Default Dependency Injection" toReformat="false" toShortenFQNames="true">
+    <variable name="dependency" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="abstract" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
