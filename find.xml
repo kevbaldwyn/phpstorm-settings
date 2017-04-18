@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../fuel/app/classes/lib/DomainModel/Model/Billing/Handlers/Subscription/Company/DirectDebitNotificationHandler.php - [funeralzone]'" />
-    <option name="defaultScopeName" value="File '.../fuel/app/classes/lib/DomainModel/Model/Billing/Handlers/Subscription/Company/DirectDebitNotificationHandler.php - [funeralzone]'" />
-    <option name="SEARCH_SCOPE" value="File '.../fuel/app/classes/lib/DomainModel/Model/Billing/Handlers/Subscription/Company/DirectDebitNotificationHandler.php - [funeralzone]'" />
+    <option name="customScope" value="fz php project files only" />
+    <option name="defaultScopeName" value="fz php project files only" />
+    <option name="SEARCH_SCOPE" value="fz php project files only" />
   </component>
 </application>
