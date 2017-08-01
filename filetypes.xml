@@ -17,6 +17,7 @@
       <mapping pattern="Dockerfile-new" type="PLAIN_TEXT" />
       <mapping pattern="public" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
