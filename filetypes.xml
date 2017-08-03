@@ -15,6 +15,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="conf" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-new" type="PLAIN_TEXT" />
+      <mapping pattern="varnish" type="PLAIN_TEXT" />
       <mapping pattern="public" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
