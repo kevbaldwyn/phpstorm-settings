@@ -1,20 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".vcl" type="Bash" />
       <mapping ext="template" type="JSON" />
       <mapping pattern="run" type="PLAIN_TEXT" />
-      <mapping pattern="apple-app-site-association" type="PLAIN_TEXT" />
-      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env.build" type="PLAIN_TEXT" />
-      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="public" type="PLAIN_TEXT" />
-      <mapping pattern="conf" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-new" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
+      <mapping pattern="conf" type="PLAIN_TEXT" />
       <mapping pattern="varnish" type="PLAIN_TEXT" />
+      <mapping pattern="apple-app-site-association" type="PLAIN_TEXT" />
+      <mapping pattern="public" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.build" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
