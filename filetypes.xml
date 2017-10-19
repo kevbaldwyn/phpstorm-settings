@@ -13,6 +13,7 @@
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="public" type="PLAIN_TEXT" />
       <mapping pattern="conf" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-new" type="PLAIN_TEXT" />
