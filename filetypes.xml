@@ -19,6 +19,7 @@
       <mapping pattern="Dockerfile-new" type="PLAIN_TEXT" />
       <mapping pattern="varnish" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
