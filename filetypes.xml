@@ -7,6 +7,7 @@
       <mapping pattern="5c343f1ce23bd162fb946f859286b3052118e0c7" type="PLAIN_TEXT" />
       <mapping pattern="apple-app-site-association" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.build" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
