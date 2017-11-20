@@ -9,6 +9,7 @@
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="riemann" type="PLAIN_TEXT" />
       <mapping pattern=".env.build" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
