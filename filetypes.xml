@@ -26,7 +26,6 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="clj" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
