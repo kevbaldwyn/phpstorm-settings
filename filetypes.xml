@@ -12,6 +12,7 @@
       <mapping pattern="uwsgi" type="PLAIN_TEXT" />
       <mapping pattern="5c343f1ce23bd162fb946f859286b3052118e0c7" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-new" type="PLAIN_TEXT" />
+      <mapping pattern="metric-list" type="PLAIN_TEXT" />
       <mapping pattern="public" type="PLAIN_TEXT" />
       <mapping pattern=".env.build" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
