@@ -1,21 +1,31 @@
 <scheme name="Monokai Edited" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="modified">2018-01-03T16:43:55</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="CARET_COLOR" value="f8f8f0" />
+    <option name="CARET_COLOR" value="61e8" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
     <option name="FILESTATUS_ADDED" value="dcd00" />
     <option name="FILESTATUS_MODIFIED" value="10a6eb" />
-    <option name="GUTTER_BACKGROUND" value="272822" />
-    <option name="INDENT_GUIDE" value="3b3a32" />
+    <option name="GUTTER_BACKGROUND" value="1c1a17" />
+    <option name="INDENT_GUIDE" value="383731" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
-    <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
+    <option name="METHOD_SEPARATORS_COLOR" value="2e2e2e" />
+    <option name="RIGHT_MARGIN_COLOR" value="464646" />
+    <option name="SELECTED_INDENT_GUIDE" value="22211b" />
     <option name="SELECTION_BACKGROUND" value="49483e" />
+    <option name="SEPARATOR_ABOVE_COLOR" value="3c3f41" />
+    <option name="SEPARATOR_BELOW_COLOR" value="3d3d3d" />
+    <option name="TEARLINE_COLOR" value="4f4f4f" />
+    <option name="VISUAL_INDENT_GUIDE" value="202020" />
     <option name="WHITESPACES" value="3b3a32" />
   </colors>
   <attributes>
