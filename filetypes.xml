@@ -29,6 +29,7 @@
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
