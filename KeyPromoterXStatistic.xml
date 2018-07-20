@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1234</Count>
+          <Count>1236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>117</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -118,7 +118,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>176</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -142,7 +142,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>40</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -262,7 +262,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>40</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
