@@ -54,7 +54,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -118,7 +118,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>203</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
