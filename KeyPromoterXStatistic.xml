@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>264</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -159,6 +159,14 @@
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
           <Count>159</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Folder...">
+        <Item>
+          <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
+          <ShortCut>'⌘N'</ShortCut>
+          <Description>New Folder...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Scratch File">
@@ -238,7 +246,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'⇧⌘R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>10</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace...">
@@ -246,7 +254,7 @@
           <IdeaActionID>Replace</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Replace...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FZ'">
