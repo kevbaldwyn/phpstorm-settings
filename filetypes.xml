@@ -36,6 +36,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="redirects" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
