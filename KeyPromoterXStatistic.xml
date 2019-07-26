@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>279</Count>
+          <Count>280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -238,7 +238,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>272</Count>
+          <Count>274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
