@@ -358,7 +358,7 @@
           <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
           <ShortCut>'⌃V'</ShortCut>
           <Description>VCS Operations Popup...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
@@ -374,7 +374,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
