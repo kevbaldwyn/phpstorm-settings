@@ -8,6 +8,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern="1a99e3baa1aa1aa4eb74fe3888148d2badd77656cbbcec8bc0acffcc3aec" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="statsd/run" type="PLAIN_TEXT" />
