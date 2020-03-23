@@ -38,6 +38,7 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="redirects" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping pattern="Evidence over hysteria — COVID-19 - Six Four Six Nine - Medium" type="XHTML" />
     </extensionMap>
   </component>
 </application>
