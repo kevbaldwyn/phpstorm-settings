@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>349</Count>
+          <Count>351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -118,7 +118,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>395</Count>
+          <Count>396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
