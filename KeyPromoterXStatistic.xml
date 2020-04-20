@@ -262,7 +262,7 @@
           <IdeaActionID>Replace</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Replace...</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FZ'">
