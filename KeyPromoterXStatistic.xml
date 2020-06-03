@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2800</Count>
+          <Count>2801</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -126,7 +126,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>439</Count>
+          <Count>440</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -174,7 +174,7 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
-          <Count>212</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -254,7 +254,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>359</Count>
+          <Count>362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
