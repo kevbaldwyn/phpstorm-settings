@@ -398,7 +398,7 @@
           <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
           <ShortCut>'⌃V'</ShortCut>
           <Description>VCS Operations Popup...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Variable...">
